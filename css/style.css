@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+}
+.header{
+overflow: hidden;
+}
+.logo{
+width: 30%;
+height: 100px;
+background-color: red;
+text-align: center;
+float: left;
+}
+.logo h1{
+color: white;
+}
+.menue{
+width: 70%;
+height: 100px;
+background-color: green;
+text-align: center;
+float: left;
+}
+.menue h1{
+color: white;
+}
+.bannar{
+height: 70px;
+background-color: gray;
+text-align: center;
+}
+.bannar h1{
+color: white;
+}
+.content{
+overflow: hidden;
+}
+.left{
+width: 20%;
+height: 500px;
+background-color: blue;
+text-align: center;
+float: left;
+}
+.left h1{
+    color: white;
+}
+.middle{
+width: 60%;
+height: 500px;
+background-color: blueviolet;
+text-align: center;
+float: left;
+}
+.middle h1{
+    color: white;
+}
+.right{
+width: 20%;
+height: 500px;
+background-color: cornflowerblue;
+text-align: center;
+float: left;
+}
+.right h1{
+    color: white;
+}
+.top{
+    height: 30%;
+    background-color: red;
+}
+.top h1{
+    color: white;
+
+}
+.center{
+    height: 40%;
+    background-color: gray;
+    overflow: hidden;
+}
+.bottom{
+    height: 30%;
+    background-color: green;
+}
+.bottom h1{
+    color: white;
+}
+.center_left{
+width: 50%;
+height: 100%;
+background-color: blueviolet;
+float: left;
+}
+.center_left h1{
+    color: white;
+}
+.center_right{
+width: 50%;
+height: 100%;
+background-color: blue;
+float: left
+
+}
+.center_right h1{
+    color: white;
+}
+.footer{
+    height: 250px;
+    background-color: red;
+    text-align: center;
+}
+.footer h1{
+    color: white;
+}
+
+
+
